@@ -10,7 +10,7 @@ A command-line tool for working with Kubernetes clusters.
 
 ### 2. **eksctl**
 A command-line tool for working with Amazon EKS clusters that automates many individual tasks.  
-- For more information, see [Installing or updating eksctl](https://eksctl.io/introduction/#installation).
+- For more information, see [Installing or updating eksctl](https://eksctl.io/installation/).
 
 ---
 
